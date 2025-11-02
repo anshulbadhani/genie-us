@@ -21,7 +21,7 @@ Your AI-Powered Google Classroom Assistant.
 
 **Genie-us** is a powerful command-line tool designed to supercharge your Google Classroom experience. This tool connects to the Classroom and Drive APIs to automate the detection of new materials, generate AI-powered study aids, analyze announcements for important keywords, and even compile your source code into a formatted `.docx` document.
 
-It's the perfect assistant for students who want to stay organized and get a head start on their studies.
+It's the perfect assistant for students who want to stay organized and get a head start on their studies. **You can find the demo video [here](https://drive.google.com/file/d/1drKuH6TiLZK1pg1Z3XWZHiyRG1p8X2TQ/view)** 🚀
 
 ## Features
 
